@@ -36,24 +36,43 @@
 ## 四、 项目结构
 
 > Digital_Economy_Urban_Rural_Gap/
+> 
 > │
+> 
 > ├── README.md
+> 
 > ├── requirements.txt
+> 
 > │
+> 
 > ├── data/
+> 
 > │   └── raw/
+> 
 > │       └── data_description.md
+> 
 > │
+> 
 > ├── src/
+> 
 > │   ├── main.py                      # 主程序入口
+> 
 > │   ├── data_preprocessing.py        # 数据预处理
+> 
 > │   ├── arima_forecast.py            # ARIMA预测
+> 
 > │   ├── lstm_forecast.py             # LSTM预测
+> 
 > │   ├── pca_analysis.py              # 主成分分析
+> 
 > │   └── regression_model.py          # 多元回归
+> 
 > │
+> 
 > └── results/
+> 
 >     └── figures/                     # 结果图片
+> 
 
 ## 五、快速运行
 
